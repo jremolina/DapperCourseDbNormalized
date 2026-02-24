@@ -1,0 +1,6 @@
+@DapperCourseDBNormalized_HostAddress = http://localhost:5125
+
+GET {{DapperCourseDBNormalized_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
